@@ -4,7 +4,7 @@
 #include <WiFi.h>
 
 // Xiao ESPC3
-#define LED_PIN     9
+#define LED_PIN     7
 #define LED_COUNT   21
 
 Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
