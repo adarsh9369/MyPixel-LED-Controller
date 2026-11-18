@@ -1,6 +1,7 @@
 
 #include <Adafruit_NeoPixel.h>
 #include <WebServer.h>
+#include <WiFi.h>
 
 // Xiao ESPC3
 #define LED_PIN     9
